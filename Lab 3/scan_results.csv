@@ -1,7 +1,0 @@
-timestamp,host,ip,port,state,service,banner,notes
-2026-03-15 22:33:10,scanme.nmap.org,45.33.32.156,,info,Shodan,"OS: None | Known ports: [80, 9929, 123, 22, 31337]",Org: Linode | Country: United States
-2026-03-15 22:33:11,scanme.nmap.org,45.33.32.156,22,open,SSH,SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2.13,Socket scan | Org: Linode
-2026-03-15 22:33:11,scanme.nmap.org,45.33.32.156,80,open,,,Socket scan | Org: Linode
-2026-03-15 22:33:28,scanme.nmap.org,45.33.32.156,22,open,ssh,OpenSSH,Detected by Nmap
-2026-03-15 22:33:28,scanme.nmap.org,45.33.32.156,25,filtered,smtp,,Detected by Nmap
-2026-03-15 22:33:28,scanme.nmap.org,45.33.32.156,80,open,http,Apache httpd,Detected by Nmap
